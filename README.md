@@ -12,12 +12,6 @@ This project provides a REST API for managing recipes. It allows users to create
 - Image upload for recipes
 
 
-# Getting Started
-1. Clone the repository to your local machine:
-```bash
-git clone https://github.com/codewithpradip/recipe-api.git
-```
-
 # Technologies Used
 - Python
 - Django
@@ -25,6 +19,19 @@ git clone https://github.com/codewithpradip/recipe-api.git
 - PostgreSQL
 - Docker
 
+# Getting Started
+
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/codewithpradip/recipe-api.git
+```
+
+2. Start Container
+```bash
+docker compose up
+```
+
+3. The API documentation can be found at: http://127.0.0.1:8000/api/docs/
 # Contribute
 Feel free to to improve this project. If you have awesome ideas on your mind, please don't hesitate to open a pull request.
 
