@@ -21,6 +21,8 @@ This project provides a REST API for managing recipes. It allows users to create
 
 # Getting Started
 
+> **_NOTE:_** Please ensure that You have to install Docker and Docker Compose.
+
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/codewithpradip/recipe-api.git
