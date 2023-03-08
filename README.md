@@ -32,8 +32,18 @@ docker compose up
 ```
 
 3. The API documentation can be found at: http://127.0.0.1:8000/api/docs/
+
+
 # Contribute
 Feel free to to improve this project. If you have awesome ideas on your mind, please don't hesitate to open a pull request.
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with a clear commit message.
+4. Push your branch to your forked repository.
+5. Create a pull request to merge your changes into the main repository.
+
+> **_NOTE:_** Please ensure that your code follows the existing style and passes all tests before submitting a pull request. Also, make sure to include a clear description of the changes you have made and why they are necessary.
 
 
 # Thanks
